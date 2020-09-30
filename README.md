@@ -1,2 +1,2 @@
-# JogaDaMemoria
+# JogoDaMemoria
 jogo da memoria
